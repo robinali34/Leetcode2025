@@ -1,0 +1,51 @@
+{
+  "1": {
+    "problem_id": "1",
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "category": "Array",
+    "completed": true,
+    "completed_date": "2025-08-20T20:48:12.463464",
+    "language": "python",
+    "time_taken": 15,
+    "notes": "Used hash table approach",
+    "rating": 2,
+    "tags": [
+      "Hash Table",
+      "Array"
+    ]
+  },
+  "2": {
+    "problem_id": "2",
+    "title": "Add Two Numbers",
+    "difficulty": "Medium",
+    "category": "Linked List",
+    "completed": true,
+    "completed_date": "2025-08-20T20:48:12.463795",
+    "language": "cpp",
+    "time_taken": 25,
+    "notes": "Linked list manipulation",
+    "rating": 4,
+    "tags": [
+      "Linked List",
+      "Math"
+    ]
+  },
+  "3": {
+    "problem_id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "category": "String",
+    "completed": false,
+    "completed_date": null,
+    "language": "",
+    "time_taken": null,
+    "notes": "",
+    "rating": null,
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  }
+}

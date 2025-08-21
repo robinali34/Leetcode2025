@@ -1,0 +1,4 @@
+Problem ID,Title,Difficulty,Category,Completed,Completed Date,Language,Time Taken,Rating,Tags,Notes
+1,Two Sum,Easy,Array,True,2025-08-20T20:48:12.463464,python,15,2,"Hash Table, Array",Used hash table approach
+2,Add Two Numbers,Medium,Linked List,True,2025-08-20T20:48:12.463795,cpp,25,4,"Linked List, Math",Linked list manipulation
+3,Longest Substring Without Repeating Characters,Medium,String,False,,,,,"Hash Table, String, Sliding Window",
